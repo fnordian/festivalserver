@@ -1,0 +1,18 @@
+{
+  "name": "festivalnode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "festivalserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fnordian/festivalserver.git"
+  },
+  "author": "Marcus Hunger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnordian/festivalserver/issues"
+  }
+}
